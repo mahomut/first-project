@@ -249,7 +249,7 @@ h5.head_agileinfo {
 }
 
 h5.head_agileinfo span {
-    font-family: 'Elsie Swash Caps', cursive;
+    font-family: 'Lato', cursive;
     color: #0076be;
     font-weight: bold;
 }
@@ -312,7 +312,7 @@ h3.agile_btxt {
 }
 
 h3.agile_btxt span {
-    font-size: 3em;
+    font-size: 1em;
     text-transform: uppercase;
     color: #f0475f;
     font-family: 'Lato', cursive;
@@ -339,17 +339,17 @@ h4.head_agileinfo {
 }
 
 h2.agile_btxt span {
-    font-size: 2em;
+    font-size: 1em;
     text-transform: uppercase;
     color: #f0475f;
-    font-family: 'Elsie Swash Caps', cursive;
+    font-family: 'Lato', cursive;
 }
 
 h4.head_agileinfo span {
     font-size: 3em;
     text-transform: uppercase;
     color: #fff;
-    font-family: 'Elsie Swash Caps', cursive;
+    font-family: 'Lato', cursive;
 }
 
 h4.w3_bbot {
@@ -372,8 +372,9 @@ h4.bn_right {
 }
 
 h4.bn_right span {
-    font-family: 'Elsie Swash Caps', cursive;
-    font-size: 2em;
+    font-family: 'Lato', cursive;
+    font-weight: 400;
+    font-size: 1em;
 }
 
 .slider-info {
@@ -1323,7 +1324,7 @@ ul.bottom-links-agile li a {
 }
 
 .modal-title {
-    font-family: 'Elsie Swash Caps', cursive;
+    font-family: 'Lato', cursive;
     font-weight: bold;
     font-size: 2em;
 }
@@ -1500,7 +1501,8 @@ ul.bottom-links-agile li a {
 
 @media screen and (max-width: 1280px) {
     h3.agile_btxt span {
-        font-size: 2.5em;
+        font-size: 1em;
+        font-weight: 500;
     }
     h4.w3_bbot {
         word-spacing: 0px;
@@ -1620,7 +1622,7 @@ ul.bottom-links-agile li a {
         top: 56%;
     }
     h3.agile_btxt {
-        font-size: 2.5em;
+        font-size: 1em;
     }
     .banner {
         height: 60vw;
