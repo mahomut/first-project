@@ -314,7 +314,6 @@ h3.agile_btxt {
 h3.agile_btxt span {
     font-size: 1em;
     text-transform: uppercase;
-    color: #f0475f;
     font-family: 'Lato', cursive;
 }
 
@@ -341,7 +340,6 @@ h4.head_agileinfo {
 h2.agile_btxt span {
     font-size: 1em;
     text-transform: uppercase;
-    color: #f0475f;
     font-family: 'Lato', cursive;
 }
 
@@ -1475,7 +1473,7 @@ ul.bottom-links-agile li a {
 
 @media screen and (max-width: 1440px) {
     h3.agile_btxt span {
-        font-size: 2.8em;
+        font-size: 1em;
     }
     .banner {
         height: 50vw;
@@ -1502,7 +1500,6 @@ ul.bottom-links-agile li a {
 @media screen and (max-width: 1280px) {
     h3.agile_btxt span {
         font-size: 1em;
-        font-weight: 500;
     }
     h4.w3_bbot {
         word-spacing: 0px;
@@ -1541,7 +1538,7 @@ ul.bottom-links-agile li a {
 
 @media screen and (max-width: 1080px) {
     h3.agile_btxt span {
-        font-size: 2em;
+        font-size: 1em;
     }
     h3.agile_btxt {
         font-size: 2.8em;
@@ -1948,7 +1945,7 @@ ul.bottom-links-agile li a {
 @media screen and (max-width: 320px) {
     nav.top_nav {
         display: block !important;
-        text-align: center;
+        text-align: justify;
     }
     .nav-icon {
         padding-top: 10px;
