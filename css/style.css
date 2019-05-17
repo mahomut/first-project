@@ -275,12 +275,13 @@ h5.shop_w3 {
 }
 
 .banner2 {
-    background: url(../images/bann2.jpg) no-repeat;
+    background: url(../images/Mavi_SS19_Slider_Men_web.jpg) no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
     background-size: cover;
+    position: relative;
 }
 
 .banner3 {
@@ -290,6 +291,7 @@ h5.shop_w3 {
     -o-background-size: cover;
     -ms-background-size: cover;
     background-size: cover;
+    position: relative;
 }
 
 .ibanner_w3 {
@@ -377,6 +379,7 @@ h4.bn_right span {
 
 .slider-info {
     max-width: 500px;
+    
 }
 
 .bnr_clip a {
@@ -1588,7 +1591,7 @@ ul.bottom-links-agile li a {
         padding-top: 10px;
     }
     h3.agile_btxt span {
-        font-size: 1.8em;
+        font-size: 1em;
     }
     .callbacks_tabs {
         left: 11%;
@@ -1625,7 +1628,7 @@ ul.bottom-links-agile li a {
         height: 60vw;
     }
     h4.bn_right span {
-        font-size: 1.8em;
+        font-size: 1em;
     }
     .hovereffect h5 {
         padding: 80px 20px;
@@ -1685,7 +1688,7 @@ ul.bottom-links-agile li a {
         top: 56%;
     }
     h4.bn_right span {
-        font-size: 1.7em;
+        font-size: 1em;
     }
     .bnr_clip h4 span {
         font-size: 1.6em;
@@ -1740,7 +1743,7 @@ ul.bottom-links-agile li a {
         top: 52%;
     }
     h4.bn_right span {
-        font-size: 1.5em;
+        font-size: 1em;
     }
     h4.w3_bbot {
         font-size: 0.9em;
